@@ -243,6 +243,7 @@ h6 {
   height: 100vh;
   background: url("https://res.cloudinary.com/dlt3i0ddc/image/upload/v1714986559/me_utzg6h.jpg") top center;
   background-size: contain;
+  background-repeat: no-repeat;
 }
 
 #hero:before {
