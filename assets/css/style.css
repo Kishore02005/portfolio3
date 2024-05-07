@@ -470,7 +470,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #06151c;
+  background-color: #d67198;
 }
 .skills .progress-bar3 {
   width: 1px;
@@ -482,19 +482,19 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #18103e;
+  background-color: #1c1a25;
 }
 .skills .progress-bar5 {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #ca1f1c;
+  background-color: #d3e846;
 }
 .skills .progress-bar6 {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #42cb67;
+  background-color: #d13e3e;
 }
 
 /*--------------------------------------------------------------
